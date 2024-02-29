@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.link-tag {
+  text-decoration: none;
+}
+
+/* Media queries */
+.right-sidebar {
+  padding: 10px; 
+    background-color: #0a62f0; 
+  color: #fff; 
+}
+
+.left-sidebar {
+  background-color: #ff6347; 
+  color: #fff; 
+}
