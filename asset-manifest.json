@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devesh0745/chat-application.git/static/css/main.65a2db49.css",
+    "main.js": "/devesh0745/chat-application.git/static/js/main.fea22e85.js",
+    "index.html": "/devesh0745/chat-application.git/index.html",
+    "main.65a2db49.css.map": "/devesh0745/chat-application.git/static/css/main.65a2db49.css.map",
+    "main.fea22e85.js.map": "/devesh0745/chat-application.git/static/js/main.fea22e85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a2db49.css",
+    "static/js/main.fea22e85.js"
+  ]
+}
